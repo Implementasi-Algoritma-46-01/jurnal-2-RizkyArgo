@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Rizky Argo Pradana
 
-NIM : 
+NIM : 607062400005
 
 ## Instruksi
 
